@@ -10,7 +10,7 @@ The video walks through the **theoretical predictions** of our experiment—cove
 
 Click below to watch:
 
-[![Watch the video](thumbnail.png)](EffortModel.mp4)
+[![Watch the presentation video](thumbnail.png)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)
 
 
 ## What's in the Video
