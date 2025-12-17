@@ -4,7 +4,7 @@ This repository contains a short explainer video I made for my **Experimental an
 
 I probably worked for longer than I should have on this animation, so I wanted to share it for anyone interested! I thought it was pretty cool!
 
-The video walks through the **theoretical predictions** of our experiment—covering the game-theoretic structure, equilibrium intuition, and the math behind what we expected participants to do. I went for a **3Blue1Brown-inspired** visual style because I wanted the formal theory to feel more intuitive and engaging!
+The video walks through the **theoretical predictions** of our experiment, covering the game-theoretic structure, equilibrium intuition, and the math behind what we expected participants to do. I went for a **3Blue1Brown-inspired** visual style because I wanted the formal theory to feel more intuitive and engaging!
 
 The animation was used as a **background visual during a live presentation**, with key details explained verbally. Some labels and annotations are therefore omitted, as they were provided through narration rather than on-screen text.
 
