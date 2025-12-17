@@ -10,7 +10,7 @@ The video walks through the **theoretical predictions** of our experiment—cove
 
 Click below to watch:
 
-[Watch the presentation video](video.mp4)
+[![Watch the video](thumbnail.png)](EffortModel.mp4)
 
 
 ## What's in the Video
