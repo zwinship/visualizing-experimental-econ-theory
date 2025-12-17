@@ -14,7 +14,7 @@ The animation was used as a **background visual during a live presentation**, wi
 
 [![⬇ Download Presentation Video](thumbnail.png)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)
 
-⬇ **[Download the video (MP4)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)**
+**[Download the video (MP4)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)**
 
 
 ## What's in the Video
