@@ -6,11 +6,15 @@ I probably worked for longer than I should have on this animation, so I wanted t
 
 The video walks through the **theoretical predictions** of our experiment—covering the game-theoretic structure, equilibrium intuition, and the math behind what we expected participants to do. I went for a **3Blue1Brown-inspired** visual style because I wanted the formal theory to feel more intuitive and engaging!
 
+The animation was used as a **background visual during a live presentation**, with key details explained verbally. Some labels and annotations are therefore omitted, as they were provided through narration rather than on-screen text.
+
 ## The Video
 
-Click below to watch:
+**Click the thumbnail or the button below to download the full presentation video (MP4).**
 
-[![Watch the presentation video](thumbnail.png)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)
+[![⬇ Download Presentation Video](thumbnail.png)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)
+
+⬇ **[Download the video (MP4)](https://raw.githubusercontent.com/zwinship/visualizing-experimental-econ-theory/main/EffortModel.mp4)**
 
 
 ## What's in the Video
